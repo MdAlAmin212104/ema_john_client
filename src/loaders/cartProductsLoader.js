@@ -16,7 +16,7 @@ const cartProductsLoader = async () => {
     const products = await loadedProducts.json();
 
     
-    console.log(storedCartIds);
+    //console.log(storedCartIds);
 
     const savedCart = [];
 
